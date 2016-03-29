@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhongHong.Web", "ZhongHong.Web\ZhongHong.Web.csproj", "{763C7BF3-72C3-48BC-AC7C-737E260C43B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhongHong.Core", "ZhongHong.Core\ZhongHong.Core.csproj", "{00E6C192-1587-4663-8F01-4AC5CD77DEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhongHong.DataLibrary", "ZhongHong.DataLibrary\ZhongHong.DataLibrary.csproj", "{C9ED8705-06E3-403E-8574-7A2E182A6527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763C7BF3-72C3-48BC-AC7C-737E260C43B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763C7BF3-72C3-48BC-AC7C-737E260C43B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763C7BF3-72C3-48BC-AC7C-737E260C43B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763C7BF3-72C3-48BC-AC7C-737E260C43B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E6C192-1587-4663-8F01-4AC5CD77DEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E6C192-1587-4663-8F01-4AC5CD77DEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E6C192-1587-4663-8F01-4AC5CD77DEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E6C192-1587-4663-8F01-4AC5CD77DEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9ED8705-06E3-403E-8574-7A2E182A6527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ED8705-06E3-403E-8574-7A2E182A6527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ED8705-06E3-403E-8574-7A2E182A6527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ED8705-06E3-403E-8574-7A2E182A6527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
