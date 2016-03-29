@@ -1,0 +1,5 @@
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\bin\Debug\ZhongHong.Core.dll
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\bin\Debug\ZhongHong.Core.pdb
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.csprojResolveAssemblyReference.cache
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.dll
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.pdb
