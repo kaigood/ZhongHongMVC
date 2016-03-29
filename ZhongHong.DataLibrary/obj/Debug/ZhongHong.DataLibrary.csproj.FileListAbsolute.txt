@@ -1,0 +1,5 @@
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.DataLibrary\bin\Debug\ZhongHong.DataLibrary.dll
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.DataLibrary\bin\Debug\ZhongHong.DataLibrary.pdb
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.csprojResolveAssemblyReference.cache
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.dll
+c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.pdb
