@@ -18,11 +18,11 @@ namespace ZhongHong.Core
         /// <returns>数据上下文</returns>
         public static ZhongHongyContext CurrentContext()
         {
-            ZhongHongyContext _nContext = CallContext.GetData("NineskyContext") as ZhongHongyContext;
+            ZhongHongyContext _nContext = CallContext.GetData("ZhongHongyContext") as ZhongHongyContext;
             if (_nContext == null)
             {
                 _nContext = new ZhongHongyContext();
-                CallContext.SetData("NineskyContext", _nContext);
+                CallContext.SetData("ZhongHongyContext", _nContext);
             }
             return _nContext;
         }
