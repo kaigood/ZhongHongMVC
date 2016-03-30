@@ -158,6 +158,10 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Areas\Control\ControlAreaRegistration.cs" />
+    <Compile Include="Areas\Control\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Member\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Member\MemberAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -171,12 +175,21 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\StyleControl.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Areas\Member\Views\web.config" />
+    <Content Include="Areas\Member\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Member\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Member\Views\Home\Index.cshtml" />
+    <Content Include="Areas\Control\Views\web.config" />
+    <Content Include="Areas\Control\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Control\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Control\Views\Home\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -217,6 +230,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Control\Models\" />
+    <Folder Include="Areas\Member\Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -224,6 +239,12 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZhongHong.Core\ZhongHong.Core.csproj">
+      <Project>{00e6c192-1587-4663-8f01-4ac5cd77dedd}</Project>
+      <Name>ZhongHong.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

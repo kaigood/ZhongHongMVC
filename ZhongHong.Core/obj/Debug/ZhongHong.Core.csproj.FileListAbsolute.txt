@@ -3,3 +3,17 @@ c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\bin\D
 c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.csprojResolveAssemblyReference.cache
 c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.dll
 c:\users\zk\documents\visual studio 2013\Projects\ZhongHong\ZhongHong.Core\obj\Debug\ZhongHong.Core.pdb
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\ZhongHong.Core.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\ZhongHong.Core.pdb
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\obj\Debug\ZhongHong.Core.csprojResolveAssemblyReference.cache
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\obj\Debug\ZhongHong.Core.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\obj\Debug\ZhongHong.Core.pdb
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\ZhongHong.Core.dll.config
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\EntityFramework.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\ZhongHong.DataLibrary.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\ZhongHong.DataLibrary.pdb
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\EntityFramework.xml
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Core\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
