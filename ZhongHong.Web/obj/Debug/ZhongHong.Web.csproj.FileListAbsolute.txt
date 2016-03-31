@@ -146,3 +146,7 @@ C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\bin\zh-Hans\Microsoft.Owin.Securi
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\obj\Debug\ZhongHong.Web.dll
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\obj\Debug\ZhongHong.Web.pdb
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\obj\Debug\ZhongHong.Web.csprojResolveAssemblyReference.cache
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\bin\ZhongHong.Core.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\bin\ZhongHong.DataLibrary.dll
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\bin\ZhongHong.Core.pdb
+C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.Web\bin\ZhongHong.DataLibrary.pdb

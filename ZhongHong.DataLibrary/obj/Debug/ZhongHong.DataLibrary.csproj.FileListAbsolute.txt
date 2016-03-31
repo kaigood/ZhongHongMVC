@@ -14,4 +14,3 @@ C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.DataLibrary\bin\Debug\zh-Hans\EntityF
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.DataLibrary\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.dll
 C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.pdb
-C:\Users\zk\Desktop\ZhongHongMVC\ZhongHong.DataLibrary\obj\Debug\ZhongHong.DataLibrary.csprojResolveAssemblyReference.cache

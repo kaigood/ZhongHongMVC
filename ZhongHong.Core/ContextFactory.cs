@@ -16,13 +16,13 @@ namespace ZhongHong.Core
         /// 获取当前线程的数据上下文
         /// </summary>
         /// <returns>数据上下文</returns>
-        public static ZhongHongyContext CurrentContext()
+        public static ZhongHongContext CurrentContext()
         {
-            ZhongHongyContext _nContext = CallContext.GetData("ZhongHongyContext") as ZhongHongyContext;
+            ZhongHongContext _nContext = CallContext.GetData("ZhongHongContext") as ZhongHongContext;
             if (_nContext == null)
             {
-                _nContext = new ZhongHongyContext();
-                CallContext.SetData("ZhongHongyContext", _nContext);
+                _nContext = new ZhongHongContext();
+                CallContext.SetData("ZhongHongContext", _nContext);
             }
             return _nContext;
         }

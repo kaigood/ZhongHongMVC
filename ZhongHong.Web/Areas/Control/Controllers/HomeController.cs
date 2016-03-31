@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace ZhongHong.Web.Areas.Control.Controllers
 {
+    [AdminAuthorize]
     public class HomeController : Controller
     {
         //
