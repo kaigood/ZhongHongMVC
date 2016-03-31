@@ -12,7 +12,7 @@ namespace ZhongHong.Core
         /// <summary>
         /// 管理员集合
         /// </summary>
-        public DbSet<Administrator> Administrator { get; set; }
+        public DbSet<Administrator> Administrators { get; set; }
 
         public ZhongHongContext()
             : base("MSSQLConnectionString")
